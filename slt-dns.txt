@@ -1,0 +1,5 @@
+Primary DNS server :
+
+222.165.171.3
+Secondary DNS server :
+222.165.171.2
